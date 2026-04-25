@@ -1,6 +1,6 @@
 # Tugas PW1 – Website Budaya
 
-Proyek **Tugaspw1**, sebuah website berbasis HTML & CSS yang menampilkan berbagai konten budaya Indonesia, seperti galeri seni, musik tradisional, tarian, dan lainnya.
+Project **Tugaspw1**, sebuah website berbasis HTML & CSS yang menampilkan berbagai konten budaya Indonesia, seperti galeri seni, musik tradisional, tarian, dan lainnya.
 
 📍 Proyek ini dibuat oleh **Enzy Madona Ika Safitri dan Majlista Aurellia Putri** sebagai tugas mata kuliah Pemrograman Web 1.
 
