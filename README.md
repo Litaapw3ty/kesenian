@@ -22,13 +22,6 @@ Berisi file-file utama berikut:
 ## Preview Halaman
 
 ###  **Beranda**
-<img src="https://raw.githubusercontent.com/zyyy-sfitri/Tugaspw1/main/bg.jpeg" width="400">
+<img src="https://github.com/Litaapw3ty/kesenian/blob/main/Kesenian-PW1.png" width="400">
 
----
-
-## Cara Menjalankan
-
-1. Clone repo ini:
-
-```bash
-git clone https://github.com/zyyy-sfitri/Tugaspw1.git
+----------
