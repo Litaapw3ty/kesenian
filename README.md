@@ -22,6 +22,6 @@ Berisi file-file utama berikut:
 ## Preview Halaman
 
 ###  **Beranda**
-<img src="https://github.com/Litaapw3ty/kesenian/blob/main/Kesenian-PW1.png" width="400">
+<img src="https://github.com/Litaapw3ty/kesenian/blob/main/Kesenian-PW1.png" width="1000">
 
-----------
+-------------------------------------------------
